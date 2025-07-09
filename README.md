@@ -101,9 +101,9 @@ mvn spring-boot:run
 
 ## 🧰 Tools Used
 
-- IntelliJ IDEA / Eclipse
+- Spring Tools Suite / IntelliJ IDEA / Eclipse
 - Spring Initializr
-- MySQL Workbench / H2 Console
+- MySQL Workbench
 - Postman
 
 ---
